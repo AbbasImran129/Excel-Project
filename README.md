@@ -7,7 +7,8 @@ The goal of this project is to:
 - Identify sales trends across regions, products, and customer segments.
 - Highlight profit margins and top-performing categories.
 - Provide insights for decision-making in inventory and sales strategy.
-  
+## Data Set Used
+- <a href="https://github.com/AbbasImran129/Excel-Project/blob/main/Lesnar%20Store%20Data.xlsx">Dataset</a>
 ## 🔑 Key Insights
 - Top-selling product categories by region.
 - Revenue trends over time.
